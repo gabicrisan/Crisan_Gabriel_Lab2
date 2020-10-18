@@ -24,5 +24,6 @@ namespace Crisan_Gabriel_Lab2
         {
             InitializeComponent();
         }
+        private DoughnutMachine myDoughnutMachine;
     }
 }
